@@ -22,4 +22,3 @@ for (let i=9; i<=17; i++){
         $(`#${i}-text`).addClass("bg-info");
     }
 }
-document.querySelector("#navbar-subtitle")
